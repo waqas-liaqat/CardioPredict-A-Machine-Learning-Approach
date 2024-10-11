@@ -1,5 +1,7 @@
 # **CardioPredict: A Machine Learning Approach**
 
+see Project [live at kaggle](https://www.kaggle.com/code/muhammadwaqas630/cardiopredict-a-machine-learning-approach/notebook)
+
 ## **Overview**
 
 This project involves developing a machine learning model that predicts whether a patient is likely to have heart disease based on various health-related features. The dataset used is from the UCI Machine Learning Repository, containing information on multiple risk factors for heart disease. The goal is to build an effective predictive model, evaluate its performance, and fine-tune it for real-world applications in the healthcare domain.
