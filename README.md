@@ -4,7 +4,7 @@ see Project [live at kaggle](https://www.kaggle.com/code/muhammadwaqas630/cardio
 
 ## **Overview**
 
-This project involves developing a machine learning model that predicts whether a patient is likely to have heart disease based on various health-related features. The dataset used is from the UCI Machine Learning Repository, containing information on multiple risk factors for heart disease. The goal is to build an effective predictive model, evaluate its performance, and fine-tune it for real-world applications in the healthcare domain.
+This project focuses on developing a machine learning model to predict the severity of heart disease in patients based on a range of health-related features. The dataset used is from the UCI Machine Learning Repository, containing information on multiple risk factors for heart disease. The goal is to build an effective predictive model, evaluate its performance, and fine-tune it for real-world applications in the healthcare domain.
 
 ---
 
