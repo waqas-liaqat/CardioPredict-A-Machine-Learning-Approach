@@ -108,14 +108,7 @@ Several machine learning models were tested to predict heart disease:
 
 ## **Model Performance**
 
-After training and testing the models, the **Random Forest** classifier achieved the highest performance. Below are the results for each model:
-
-| **Model**                | **Accuracy** | **Precision** | **Recall** | **F1-Score** |
-|--------------------------|--------------|---------------|------------|--------------|
-| Logistic Regression       | 83.1%        | 84.0%         | 82.7%      | 83.3%        |
-| K-Nearest Neighbors (KNN) | 81.6%        | 82.5%         | 81.2%      | 81.8%        |
-| Support Vector Machine    | 84.7%        | 85.1%         | 84.3%      | 84.7%        |
-| **Random Forest**         | **85.3%**    | **86.5%**     | **84.7%**  | **85.6%**    |
+After training and testing the models, the **Random Forest** classifier achieved the highest performance.
 
 ### **ROC and AUC:**
 - The **Random Forest** model also had the highest Area Under the Curve (AUC) score, indicating excellent classification ability.
